@@ -1,0 +1,13 @@
+﻿  ConsoleRSA.cpp
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(53,19): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(70,19): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(83,17): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(87,20): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(87,17): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(111,41): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(111,38): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(126,51): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(126,48): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(126,45): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\ConsoleRSA\ConsoleRSA.cpp(28,7): warning C4101: 'flag': unreferenced local variable
+  ConsoleRSA.vcxproj -> C:\Users\shiro\source\repos\ConsoleRSA\x64\Debug\ConsoleRSA.exe
