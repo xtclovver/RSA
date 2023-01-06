@@ -47,7 +47,7 @@ int main()
 			std::chrono::duration_cast<std::chrono::microseconds>(
 				std::chrono::high_resolution_clock::now().time_since_epoch()
 				).count()));
-		std::uniform_int_distribution<int> dist(100, 1000);
+		std::uniform_int_distribution<int> dist(50, 200);
 		int rand = dist(mt);
 		p = mt() % rand;
 	} while (isPrime(p) == false);
@@ -64,7 +64,7 @@ int main()
 			std::chrono::duration_cast<std::chrono::microseconds>(
 				std::chrono::high_resolution_clock::now().time_since_epoch()
 				).count()));
-		std::uniform_int_distribution<int> dist(100, 1000);
+		std::uniform_int_distribution<int> dist(50, 200);
 		int rand = dist(mt);
 		q = mt() % rand;
 	} while (isPrime(q) == false);
