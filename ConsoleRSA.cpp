@@ -19,10 +19,10 @@ int main()
 {
 	long long int p, q = 2, n, t, e, d;
 
-	long long int encryptedText[1000];
+	long long int encryptedText[500];
 	memset(encryptedText, 0, sizeof(encryptedText));
 
-	long long int decryptedText[1000];
+	long long int decryptedText[500];
 	memset(decryptedText, 0, sizeof(decryptedText));
 
 	bool flag;

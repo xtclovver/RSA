@@ -1,1 +1,2 @@
 C:\Users\shiro\source\repos\ConsoleRSA\x64\Debug\ConsoleRSA.exe
+C:\Users\shiro\Source\Repos\RSA\x64\Debug\ConsoleRSA.exe

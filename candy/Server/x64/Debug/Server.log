@@ -1,0 +1,7 @@
+﻿  Server.cpp
+C:\Users\shiro\source\repos\RSA\candy\Server\Server.cpp(44,19): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\RSA\candy\Server\Server.cpp(61,19): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\RSA\candy\Server\Server.cpp(65,8): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\shiro\source\repos\RSA\candy\Server\Server.cpp(74,17): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\shiro\source\repos\RSA\candy\Server\Server.cpp(78,20): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+  Server.vcxproj -> C:\Users\shiro\source\repos\RSA\candy\Server\x64\Debug\Server.exe
